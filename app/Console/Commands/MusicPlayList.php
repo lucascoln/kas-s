@@ -28,7 +28,7 @@ class MusicPlayList extends Boot
      */
     protected $description = 'netease playlist crawer';
 
-    const MUSIC_URL = 'http://music.163.com/#/song?id=';
+    const MUSIC_URL = 'http://music.163.com/#/video?id=';
 
     /**
      * Create a new command instance.
